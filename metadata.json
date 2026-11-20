@@ -1,0 +1,6 @@
+{
+  "name": "Jejak Kinerja AI",
+  "description": "Asisten pencatatan aktivitas harian, target kinerja SKP, dan penyusunan draft laporan bulanan untuk ASN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
